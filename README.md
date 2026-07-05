@@ -1,149 +1,94 @@
-<h1 align="center">Hi 👋, I'm Ch. Pavan Kumar Reddy</h1>
-<h3 align="center">Artificial Intelligence Undergraduate | Machine Learning Engineer | Full Stack Developer | Competitive Programmer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# GitHub Profile README (Template)
 
----
-
-## 🚀 About Me
-
-🎓 B.Tech in Artificial Intelligence at SVNIT Surat (2024–2028)
-
-💻 Passionate about
-- Artificial Intelligence & Machine Learning
-- Deep Learning & Computer Vision
-- Full Stack Web Development
-- Cybersecurity
-- Competitive Programming
-
-🌱 Currently learning
-- Advanced Deep Learning
-- Large Language Models (LLMs)
-- MLOps
-- System Design
-
-🎯 Goal
-- Build impactful AI products
-- Crack Google SDE/ML roles
-- Contribute to Open Source
+> **Replace the placeholder links below with your actual profiles.**
+>
+> - GitHub: `YOUR_GITHUB_USERNAME`
+> - LinkedIn: `YOUR_LINKEDIN_URL`
+> - LeetCode: `YOUR_LEETCODE_URL`
+> - Codeforces: `YOUR_CODEFORCES_URL`
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a1a2e,100:4ECDC4&height=260&section=header&text=CH.%20PAVAN%20KUMAR%20REDDY&fontSize=50&fontColor=4ECDC4&animation=fadeIn&fontAlignY=42&desc=✨%20AI%20|%20Machine%20Learning%20|%20Deep%20Learning%20|%20Django%20|%20React%20✨&descSize=18&descAlignY=63&descColor=ffffff"/>
+</div>
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=B.Tech+Artificial+Intelligence+%40+SVNIT+Surat;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Django+%7C+React;Competitive+Programmer+%7C+Problem+Solver" />
+</a>
 
----
+</div>
 
-### Machine Learning
+<div align="center">
 
-Python • TensorFlow • Keras • Scikit-Learn • NumPy • Pandas • OpenCV • XGBoost • LightGBM • CatBoost • Optuna
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](YOUR_LEETCODE_URL)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Compete-4ECDC4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](YOUR_CODEFORCES_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/YOUR_GITHUB_USERNAME)
 
----
-
-### Web Development
-
-React JS • Django • HTML • CSS • JavaScript
+</div>
 
 ---
 
-### Tools
+# 💫 About Me
 
-Git • GitHub • VS Code • Jupyter Notebook
+🎓 B.Tech in Artificial Intelligence at **SVNIT Surat**
 
----
+🤖 Passionate about AI, Machine Learning, Deep Learning, Computer Vision and Full Stack Development.
 
-# 🚀 Featured Projects
+🚀 Projects:
+- Non-Invasive Anemia Detection Using Deep Learning
+- Urban Traffic Demand Forecasting System
+- Ultimate Cricket League (Django)
 
-## 🩸 Non-Invasive Anemia Detection
-Deep learning model using EfficientNetB0 to detect anemia from retinal and fingernail images.
-
-**Tech**
-Python • TensorFlow • OpenCV • Keras
-
----
-
-## 🚦 Urban Traffic Demand Forecasting
-
-91.93% accuracy in Flipkart Gridlock Hackathon using ensemble ML models.
-
-**Tech**
-
-LightGBM • XGBoost • CatBoost • Optuna
+🏆 Competitive Programming
+- 315+ LeetCode Problems
+- 200+ Codeforces Problems
+- Peak LeetCode Rating: **1637**
+- Peak Codeforces Rating: **1223 (Pupil)**
 
 ---
 
-## 🏏 Ultimate Cricket League
+# 💻 Tech Stack
 
-A complete cricket tournament management platform built using Django.
+**Languages**
 
-Features
+`Python` `C++` `C` `JavaScript` `HTML` `CSS` `MySQL`
 
-- Authentication
-- Match Scheduling
-- Leaderboards
-- Live Score Updates
+**Machine Learning**
 
----
+`TensorFlow` `Keras` `Scikit-Learn` `OpenCV` `NumPy`
+`Pandas` `XGBoost` `LightGBM` `CatBoost` `Optuna`
 
-# 📈 Competitive Programming
+**Web**
 
-🏆 315+ LeetCode Problems
+`Django` `React`
 
-🏆 200+ Codeforces Problems
+**Tools**
 
-⭐ Peak LeetCode Rating: **1637**
-
-⭐ Peak Codeforces Rating: **1223 (Pupil)**
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+# 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge)](YOUR_CODEFORCES)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
----
-
-> *"Building AI solutions that solve real-world problems."*
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1a2e,100:4ECDC4&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=4ECDC4"/>
+</div>
